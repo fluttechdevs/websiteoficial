@@ -1,13 +1,7 @@
-A simple landing page template for showcasing mobile apps (although it'll definitely work
-for other stuff if you get rid of the phone :) Lightweight, fully responsive, and built on
-HTML5, Sass, and flexbox.
+Um modelo de página de negócio simples para mostrar aplicativos móveis, Leve, totalmente responsivo e integrado
+HTML5, Sass e flexbox.
 
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
+Creditos:
 	Icons:
 		Font Awesome (fontawesome.io)
 
