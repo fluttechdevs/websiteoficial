@@ -170,8 +170,12 @@ input, select, textarea {
 		font-weight: bold;
 	}
 	
-	.testeteste{
+	.testlign{
 		text-align: center;
+	}
+
+	.testparaph{
+		text-align: justify;
 	}
 
 	em, i {
