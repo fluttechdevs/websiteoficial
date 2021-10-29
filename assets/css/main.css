@@ -169,6 +169,10 @@ input, select, textarea {
 	strong, b {
 		font-weight: bold;
 	}
+	
+	.testeteste{
+		text-align: center;
+	}
 
 	em, i {
 		font-style: italic;
@@ -2833,6 +2837,7 @@ input, select, textarea {
 				display: block;
 				border-radius: 100%;
 				width: 100%;
+				height: 169px;
 			}
 
 		.spotlight .content {
