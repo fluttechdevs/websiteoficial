@@ -2782,7 +2782,7 @@ input, select, textarea {
 			justify-content: center;
 			text-align: center;
 			height: 150px;
-			width: 18%;
+			width: 19%;
 			border-radius: 10px;
 		
 			color: white;
@@ -2800,7 +2800,7 @@ input, select, textarea {
 				width: 18%;
 				border-radius: 10px;
 				color: white;
-				font-size: 1.1rem;
+				font-size: 1.0rem;
 			}
 		}
 	
