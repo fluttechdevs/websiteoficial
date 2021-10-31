@@ -89,6 +89,7 @@ input, select, textarea {
 
 	}
 
+
 	html {
 		box-sizing: border-box;
 	}
@@ -145,6 +146,7 @@ input, select, textarea {
 			}
 
 		}
+
 
 	body, input, select, textarea {
 		font-family: Arial, Helvetica, sans-serif;
@@ -2747,9 +2749,6 @@ input, select, textarea {
 
 		}
 
-		.member p{
-			
-		}
 
 		.members{
 			display: flex;
@@ -2782,7 +2781,6 @@ input, select, textarea {
 			flex-direction: column;
 			justify-content: center;
 			text-align: center;
-		
 			height: 150px;
 			width: 18%;
 			border-radius: 10px;
@@ -2790,7 +2788,23 @@ input, select, textarea {
 			color: white;
 			font-size: 1.7rem;
 		}
-		
+
+		@media screen and (max-width: 1080px)  {
+
+			.card{
+				display: flex;
+				flex-direction: column;
+				justify-content: center;
+				text-align: center;
+				height: 100px;
+				width: 18%;
+				border-radius: 10px;
+				color: white;
+				font-size: 1.1rem;
+			}
+		}
+	
+
 		.card.red {
 			/* um elemento tem que ter as duas classes , sem espacamento */
 			background-color: #ec454e;
