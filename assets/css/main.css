@@ -3700,6 +3700,22 @@ input, select, textarea {
 
 	}
 
+
+	/* scroll */
+	body::-webkit-scrollbar {
+		width: 20px;
+	}
+
+	::-webkit-scrollbar-track {
+		background: #333;
+	}
+
+	::-webkit-scrollbar-thumb {
+		background: #2e9dd8;
+		border-radius: 8px;
+	}
+
+
 /* Header */
 
 	#header {
