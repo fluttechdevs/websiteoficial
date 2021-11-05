@@ -3703,8 +3703,8 @@ input, select, textarea {
 /* Header */
 
 	#header {
-		background-color: #1c1919;
-		color: #d1e5f9;
+		background-color: #273A73;
+		color: #f2e8d5;
 		padding: 4.5em 0 2.5em 0 ;
 		-moz-align-items: center;
 		-webkit-align-items: center;
@@ -3900,7 +3900,7 @@ input, select, textarea {
 		}
 
 		#header h1, #header h2, #header h3, #header h4, #header h5, #header h6 {
-			color: #eb5937;
+			color: #f26457;
 		}
 
 		#header blockquote {
