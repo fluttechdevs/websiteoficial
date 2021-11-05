@@ -3704,7 +3704,7 @@ input, select, textarea {
 
 	#header {
 		background-color: #010326;
-		color: #02735e;
+		color: #d1e5f9;
 		padding: 4.5em 0 2.5em 0 ;
 		-moz-align-items: center;
 		-webkit-align-items: center;
@@ -3732,7 +3732,7 @@ input, select, textarea {
 		#header button,
 		#header .button {
 			background-color: transparent;
-			color: #ffffff !important;
+			color: #02735e !important;
 			box-shadow: inset 0 0 0 2px rgba(255, 255, 255, 0.25);
 		}
 
