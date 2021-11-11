@@ -1,4 +1,5 @@
-@import url(fontawesome-all.min.css);
+/* @import url(fontawesome-all.min.css); */
+@import url('https://fonts.googleapis.com/css2?family=Kanit&display=swap');
 
 /*
 	Fractal by HTML5 UP
@@ -150,7 +151,7 @@ input, select, textarea {
 
 
 	body, input, select, textarea {
-		font-family: Arial, Helvetica, sans-serif;
+		font-family: Kanit;
 		font-weight: normal;
 		line-height: 1.5em;
 		letter-spacing: -0.015em;
@@ -275,7 +276,7 @@ input, select, textarea {
 		border-radius: 6px;
 		border-style: solid;
 		border-width: 1px;
-		font-family: "Courier New", monospace;
+		font-family: "Kanit", monospace;
 		font-size: 0.9em;
 		margin: 0 0.25em;
 		padding: 0.25em 0.65em;
@@ -283,7 +284,7 @@ input, select, textarea {
 
 	pre {
 		-webkit-overflow-scrolling: touch;
-		font-family: "Courier New", monospace;
+		font-family: "Kanit", monospace;
 		font-size: 0.9em;
 		margin: 0 0 2em 0;
 	}
@@ -2111,7 +2112,7 @@ input, select, textarea {
 				text-rendering: auto;
 				line-height: 1;
 				text-transform: none !important;
-				font-family: 'Font Awesome 5 Free';
+				font-family: 'Kanit';
 				font-weight: 900;
 			}
 
@@ -2253,7 +2254,7 @@ input, select, textarea {
 			text-rendering: auto;
 			line-height: 1;
 			text-transform: none !important;
-			font-family: 'Font Awesome 5 Free';
+			font-family: 'Kanit';
 			font-weight: 400;
 		}
 
@@ -2270,7 +2271,7 @@ input, select, textarea {
 		}
 
 		.icon.brands:before {
-			font-family: 'Font Awesome 5 Brands';
+			font-family: 'Kanit';
 		}
 
 	.icon {
@@ -3751,7 +3752,7 @@ input, select, textarea {
 /* Header */
 
 	#header {
-		background-color: #273A73;
+		background-color: #10316B;
 		color: #f2e8d5;
 		padding: 4.5em 0 2.5em 0 ;
 		-moz-align-items: center;
@@ -3886,7 +3887,7 @@ input, select, textarea {
 		}
 
 		#header .image {
-			box-shadow: 0 0 0 4px #4696e5, 0 0 0 5px rgba(255, 255, 255, 0.25);
+			box-shadow: 0 0 0 4px #10316B, 0 0 0 5px rgba(255, 255, 255, 0.25);
 		}
 
 			#header .image.phone {
