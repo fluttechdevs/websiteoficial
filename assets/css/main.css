@@ -3719,7 +3719,7 @@ input, select, textarea {
 /* Header */
 
 	#header {
-		background-color: #273A73;
+		background-color: #10316B;
 		color: #f2e8d5;
 		padding: 4.5em 0 2.5em 0 ;
 		-moz-align-items: center;
@@ -3854,7 +3854,7 @@ input, select, textarea {
 		}
 
 		#header .image {
-			box-shadow: 0 0 0 4px #4696e5, 0 0 0 5px rgba(255, 255, 255, 0.25);
+			box-shadow: 0 0 0 4px #10316B, 0 0 0 5px rgba(255, 255, 255, 0.25);
 		}
 
 			#header .image.phone {
@@ -3916,7 +3916,7 @@ input, select, textarea {
 		}
 
 		#header h1, #header h2, #header h3, #header h4, #header h5, #header h6 {
-			color: #f26457;
+			color: #E25822;
 		}
 
 		#header blockquote {
