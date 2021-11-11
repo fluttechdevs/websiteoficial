@@ -100,6 +100,7 @@ input, select, textarea {
 
 	body {
 		background: #ffffff;
+
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -335,7 +336,7 @@ input, select, textarea {
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #828282;
+		/* color: #828282; */
 	}
 
 	blockquote {
@@ -2761,8 +2762,39 @@ input, select, textarea {
 			border-radius: 50%;
 		}
 
-		.title-default{
+		.title-tec{
+			font-family: 'kanit';
+			font-weight: 400;
+			
 			font-size: 3em;
+		}
+
+		.title-tec-subtitle{
+			font-family: 'kanit';
+			font-weight: 300;
+
+		}
+
+		.title-initial{
+			font-family: 'kanit';
+			font-weight: 100;	
+		}
+
+		.text-create-solutions{
+			font-family: 'kanit';
+			font-weight: 200;	
+		}
+
+		.constrution-solutions{
+			font-family: 'kanit';
+			font-weight: 300;
+			font-size: 22px;	
+		}
+
+		.constrution-solutions-subtitle{
+			font-family: 'kanit';
+			font-weight: 200;	
+			font-size: 22px;
 		}
 
 		.container {
@@ -3703,11 +3735,11 @@ input, select, textarea {
 
 	/* scroll */
 	body::-webkit-scrollbar {
-		width: 20px;
+		width: 10px;
 	}
 
 	::-webkit-scrollbar-track {
-		background: #333;
+		
 	}
 
 	::-webkit-scrollbar-thumb {
@@ -3915,7 +3947,7 @@ input, select, textarea {
 			color: #ffffff;
 		}
 
-		#header h1, #header h2, #header h3, #header h4, #header h5, #header h6 {
+		#header h2, #header h3, #header h4, #header h5, #header h6 {
 			color: #f26457;
 		}
 
